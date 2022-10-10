@@ -5,7 +5,7 @@ All repos of data science
 1. Binary classification problems can be solved using follows -
 * Naive Bayes
 * Logistic Regression
-  * in progress
+  * https://github.com/madi82/Logistic_Regression_FromScratch
 * K-Nearest Neighbours
   * https://github.com/madi82/KNN_FromScratch
 * K fold cross validation
