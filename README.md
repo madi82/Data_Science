@@ -7,6 +7,8 @@ All repos of data science
 * Logistic Regression
   * in progress
 * K-Nearest Neighbours
+  * https://github.com/madi82/KNN_FromScratch
+* K fold cross validation
 * Support Vector Machine
 * Decision Tree
 * Bagging Decision Tree (Ensemble Learning I)
